@@ -1,0 +1,14 @@
+[
+  {
+    "id": "58c8c900",
+    "label": "Wake up",
+    "time": "07:00",
+    "enabled": true
+  },
+  {
+    "id": "a5811add",
+    "label": "Wake up",
+    "time": "10:40",
+    "enabled": true
+  }
+]
